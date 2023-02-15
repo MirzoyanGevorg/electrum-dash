@@ -68,7 +68,7 @@
   <project_license>MIT</project_license>
   <url type="homepage">https://electrum.dash.org</url>
   <url type="bugtracker">
-    https://github.com/Bertrand256/electrum-dash/issues
+    https://github.com/MirzoyanGevorg/electrum-dash/issues
   </url>
   <url type="help">
     https://docs.dash.org/en/stable/wallets/index.html#dash-electrum-wallet

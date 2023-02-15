@@ -94,7 +94,7 @@ Development version
 
 Check out the code from GitHub::
 
-    git clone https://github.com/Bertrand256/electrum-dash.git
+    git clone https://github.com/MirzoyanGevorg/electrum-dash.git
     cd electrum-dash
 
 Run install (this should install dependencies)::
