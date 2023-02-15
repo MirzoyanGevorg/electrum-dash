@@ -1,13 +1,13 @@
 name: Build release workflow
 
 on:
+  pull_request:
+    types: [ opened, synchronize, reopened ]
+  push:
+    branches:
+      - master
   workflow_dispatch:
     inputs:
-      pull_request:
-        types: [ opened, synchronize, reopened ]
-      push:
-        branches:
-          - master
       tag:
         description: 'Tag name'
         required: true
